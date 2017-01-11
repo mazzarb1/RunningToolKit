@@ -15,10 +15,13 @@
 		6EB84BCE1E2003ED00603C63 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB84BCD1E2003ED00603C63 /* AppDelegate.swift */; };
 		6EB84BD01E2003ED00603C63 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB84BCF1E2003ED00603C63 /* ViewController.swift */; };
 		6EB84BD31E2003ED00603C63 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EB84BD11E2003ED00603C63 /* Main.storyboard */; };
-		6EB84BD51E2003ED00603C63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EB84BD41E2003ED00603C63 /* Assets.xcassets */; };
 		6EB84BD81E2003ED00603C63 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EB84BD61E2003ED00603C63 /* LaunchScreen.storyboard */; };
 		6EB84BE31E2003ED00603C63 /* RunningToolkitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB84BE21E2003ED00603C63 /* RunningToolkitTests.swift */; };
 		6EB84BEE1E2003ED00603C63 /* RunningToolkitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB84BED1E2003ED00603C63 /* RunningToolkitUITests.swift */; };
+		6EBFA9D61E26D12C001859FC /* FindTrails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBFA9D51E26D12C001859FC /* FindTrails.swift */; };
+		6EBFA9D81E26D147001859FC /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBFA9D71E26D147001859FC /* Calculator.swift */; };
+		6EE1AC701E22B991008E5179 /* FindRunners.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE1AC6F1E22B991008E5179 /* FindRunners.swift */; };
+		6EE232C61E2314DB00E9BA3A /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EE232C51E2314DB00E9BA3A /* Media.xcassets */; };
 		D010866A3E608D0EE03A2C28 /* Pods_RunningToolkitTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 208CC9EDD52AEB9BFFFA7804 /* Pods_RunningToolkitTests.framework */; };
 		E9D398C27CD49F9DF212F15B /* Pods_RunningToolkit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 159842A20E7A105057F8E231 /* Pods_RunningToolkit.framework */; };
 /* End PBXBuildFile section */
@@ -52,7 +55,6 @@
 		6EB84BCD1E2003ED00603C63 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6EB84BCF1E2003ED00603C63 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		6EB84BD21E2003ED00603C63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		6EB84BD41E2003ED00603C63 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6EB84BD71E2003ED00603C63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6EB84BD91E2003ED00603C63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6EB84BDE1E2003ED00603C63 /* RunningToolkitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RunningToolkitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -61,6 +63,10 @@
 		6EB84BE91E2003ED00603C63 /* RunningToolkitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RunningToolkitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EB84BED1E2003ED00603C63 /* RunningToolkitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningToolkitUITests.swift; sourceTree = "<group>"; };
 		6EB84BEF1E2003ED00603C63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6EBFA9D51E26D12C001859FC /* FindTrails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindTrails.swift; sourceTree = "<group>"; };
+		6EBFA9D71E26D147001859FC /* Calculator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
+		6EE1AC6F1E22B991008E5179 /* FindRunners.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindRunners.swift; sourceTree = "<group>"; };
+		6EE232C51E2314DB00E9BA3A /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		7EDB286C11C7AADE1455E5E1 /* Pods-RunningToolkitTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunningToolkitTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RunningToolkitTests/Pods-RunningToolkitTests.debug.xcconfig"; sourceTree = "<group>"; };
 		83B0620A2A8E6CA99EA78866 /* Pods-RunningToolkitTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunningToolkitTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-RunningToolkitTests/Pods-RunningToolkitTests.release.xcconfig"; sourceTree = "<group>"; };
 		8DF3CE10E3DDE510FFDA8624 /* Pods-RunningToolkit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RunningToolkit.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RunningToolkit/Pods-RunningToolkit.debug.xcconfig"; sourceTree = "<group>"; };
@@ -120,11 +126,14 @@
 		6EB84BCC1E2003ED00603C63 /* RunningToolkit */ = {
 			isa = PBXGroup;
 			children = (
+				6EE232C51E2314DB00E9BA3A /* Media.xcassets */,
+				6EB84BD11E2003ED00603C63 /* Main.storyboard */,
 				6EB84BCD1E2003ED00603C63 /* AppDelegate.swift */,
 				6EB84BCF1E2003ED00603C63 /* ViewController.swift */,
-				6EB84BD11E2003ED00603C63 /* Main.storyboard */,
 				6E3E3FA21E21BA64007BE8C2 /* MainMenu.swift */,
-				6EB84BD41E2003ED00603C63 /* Assets.xcassets */,
+				6EE1AC6F1E22B991008E5179 /* FindRunners.swift */,
+				6EBFA9D51E26D12C001859FC /* FindTrails.swift */,
+				6EBFA9D71E26D147001859FC /* Calculator.swift */,
 				6EB84BD61E2003ED00603C63 /* LaunchScreen.storyboard */,
 				6EB84BD91E2003ED00603C63 /* Info.plist */,
 				6E94B22B1E21549600116C80 /* GoogleService-Info.plist */,
@@ -292,7 +301,7 @@
 			files = (
 				6EB84BD81E2003ED00603C63 /* LaunchScreen.storyboard in Resources */,
 				6E94B22C1E21549600116C80 /* GoogleService-Info.plist in Resources */,
-				6EB84BD51E2003ED00603C63 /* Assets.xcassets in Resources */,
+				6EE232C61E2314DB00E9BA3A /* Media.xcassets in Resources */,
 				6EB84BD31E2003ED00603C63 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -460,7 +469,10 @@
 			files = (
 				6EB84BD01E2003ED00603C63 /* ViewController.swift in Sources */,
 				6E3E3FA31E21BA64007BE8C2 /* MainMenu.swift in Sources */,
+				6EBFA9D61E26D12C001859FC /* FindTrails.swift in Sources */,
+				6EE1AC701E22B991008E5179 /* FindRunners.swift in Sources */,
 				6EB84BCE1E2003ED00603C63 /* AppDelegate.swift in Sources */,
+				6EBFA9D81E26D147001859FC /* Calculator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -615,6 +627,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 7ZCYG56KPD;
 				INFOPLIST_FILE = RunningToolkit/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Final.RunningToolkit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -629,6 +642,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 7ZCYG56KPD;
 				INFOPLIST_FILE = RunningToolkit/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Final.RunningToolkit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
