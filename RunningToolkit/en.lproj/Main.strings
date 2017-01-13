@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "4RO-fn-5mp"; */
+"4RO-fn-5mp.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Log Out"; ObjectID = "4it-AS-XdM"; */
+"4it-AS-XdM.normalTitle" = "Log Out";
+
+/* Class = "UILabel"; text = "Find Trails"; ObjectID = "GiB-cY-VuP"; */
+"GiB-cY-VuP.text" = "Find Trails";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "I5g-zT-Njy"; */
+"I5g-zT-Njy.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "VMa-ln-bho"; */
+"VMa-ln-bho.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Event:"; ObjectID = "gwi-Qg-076"; */
+"gwi-Qg-076.text" = "Event:";
+
+/* Class = "UILabel"; text = "Calculator"; ObjectID = "mM2-Mf-bfj"; */
+"mM2-Mf-bfj.text" = "Calculator";
+
+/* Class = "UILabel"; text = "Find Runners"; ObjectID = "rBt-he-7Nl"; */
+"rBt-he-7Nl.text" = "Find Runners";
+
+/* Class = "UILabel"; text = "Enter Most Recent Race Results:"; ObjectID = "u8O-v9-HuQ"; */
+"u8O-v9-HuQ.text" = "Enter Most Recent Race Results:";

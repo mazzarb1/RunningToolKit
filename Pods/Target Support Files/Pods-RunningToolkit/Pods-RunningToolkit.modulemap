@@ -1,0 +1,6 @@
+framework module Pods_RunningToolkit {
+  umbrella header "Pods-RunningToolkit-umbrella.h"
+
+  export *
+  module * { export * }
+}
